@@ -39,7 +39,7 @@ Virtual environment tools like venv or conda
 Steps
 Clone the Repository
 
-git clone https://github.com/your-username/network-intrusion-detection.git
+git clone https://github.com/ujjwal738/Network-Intrusion-Detection-System/.git
 cd network-intrusion-detection
 Install Dependencies
 
